@@ -14,7 +14,7 @@
 <!-- - ⚡ Fun fact **I like cats** :cat2: -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blafea221651&show_icons=true&locale=en" alt="blafea" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blafea&show_icons=true&locale=en" alt="blafea" /></p>
 
 
 :email: contact info
