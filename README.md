@@ -19,8 +19,8 @@
 
 :email: contact info
 
-[![Gmail Badge](https://img.shields.io/badge/-howard881220@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:howard881220@gmail.com)](mailto:howard881220@gmail.com)
-[![Microsoft_Outlook Badge](https://img.shields.io/badge/-b07502022@ntu.edu.tw-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:b07502022@ntu.edu.tw)](mailto:b07502022@ntu.edu.tw)
+[![Gmail Badge](https://img.shields.io/badge/-blafea221651@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:blafea221651@gmail.com)](mailto:blafea221651@gmail.com)
+[![Microsoft_Outlook Badge](https://img.shields.io/badge/-b07502166@ntu.edu.tw-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:b07502166@ntu.edu.tw)](mailto:b07502166@ntu.edu.tw)
 
 <p align="left">
 </p>
